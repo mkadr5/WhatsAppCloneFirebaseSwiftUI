@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>599796626654-0u5br3vvgfdvkf76iqu7mnlkiesikh24.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.599796626654-0u5br3vvgfdvkf76iqu7mnlkiesikh24</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZeVrx1sy2ICX83WLBtI1u8zRq7ioGn3k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>599796626654</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.muhammetkadir.WhatsAppCloneSwiftUI</string>
+	<key>PROJECT_ID</key>
+	<string>whatsappcloneswiftui-66b69</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatsappcloneswiftui-66b69.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:599796626654:ios:a105eaea4e9816da5bbe4f</string>
+</dict>
+</plist>
